@@ -11,8 +11,8 @@ Throughout the model-building process, we will cover various data science concep
 feature engineering, dimensionality reduction, hyperparameter tuning using grid search cross-validation, and more. The technology and tools employed in
 this project include:
 
-Python
-Numpy and Pandas for data cleaning
-Matplotlib for data visualization
-Sklearn for model building
+Python,
+Numpy and Pandas for data cleaning,
+Matplotlib for data visualization,
+Sklearn for model building,
 Jupyter Notebook, Visual Studio Code
