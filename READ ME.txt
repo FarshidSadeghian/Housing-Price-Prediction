@@ -1,0 +1,9 @@
+Before buying a house, potential home buyers take into account various factors. These include the property's location, size, proximity to workplaces, schools, parks, restaurants, hospitals, and even the iconic white picket fence. However, the most crucial consideration is often the price of the house. This data science project, as my first data mining course's project during my PhD program, demonstrates a step-by-step process for creating a model that predicts real estate prices. Initially, we will construct a model using sklearn and linear regression, utilizing the Bangalore home prices dataset from Kaggle.com. The second step involves developing other machin learning algorithms to predict the price and then define a function to investigate which of these algorithms with different hyperparameter predict the price more accuratly.
+
+Throughout the model-building process, we will cover various data science concepts, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, hyperparameter tuning using grid search cross-validation, and more. The technology and tools employed in this project include:
+
+Python
+Numpy and Pandas for data cleaning
+Matplotlib for data visualization
+Sklearn for model building
+Jupyter Notebook, Visual Studio Code
